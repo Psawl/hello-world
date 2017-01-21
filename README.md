@@ -1,2 +1,3 @@
 # hello-world
 Learning to code
+I know nothing about coding and as times goes by beleive that this is the equivalent of being illiterate so I want to learn how to 'read'.  I was prompted to start today because I received a message via Mcafee that another pc had logged onto my computer and it provided an IP address i.e. 192.168.0.5 which, when I attempted to locate it, came back as being invalid.  I also got a MAC address i.e. 00-23-54-CE-54-94 and decided to find out about that.  Fern cracker came uop as being a useful tool which led me to GitHub and having found it I hope to use it to educate myself.   
